@@ -1,0 +1,2 @@
+# CombinatoricsCalculator
+Калькулятор комбинаторики
